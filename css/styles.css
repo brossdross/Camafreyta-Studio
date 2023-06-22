@@ -488,6 +488,13 @@ progress {
   display: none !important;
 }
 
+.redes{
+  text-align: center;
+  display: flex;
+  columns: auto;
+  height: 5px;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
