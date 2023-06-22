@@ -10884,7 +10884,8 @@ p {
 }
 .section-heading .section-heading-lower {
   display: block;
-  font-size:3rem;
+  width: 270px;
+  font-size:100%;
   font-weight: 100;
 }
 
